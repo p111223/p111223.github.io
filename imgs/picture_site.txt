@@ -1,6 +1,0 @@
-\themes\butterfly\source\img
-图片放在这里了
-发到github上后，就会在首页出现
-
-
-——先用本地图片上传一次后，在github上就有了，再用<img src="">来上传，这样就可以在网上看到图片了
